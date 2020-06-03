@@ -915,12 +915,12 @@
    {
       "name": "Food Addons",
       "half": "false",
-      "FoodMenuItem": {
+      "FoodMenuItem": [{
          "name": "FREE Chicken Fried Rice",
          "Cost": "0.00",
          "Description": [],
          "Number": "850"
-      }
+      }]
    },
    {
       "name": "Extra",
