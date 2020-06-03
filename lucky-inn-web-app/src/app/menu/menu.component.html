@@ -1,0 +1,21 @@
+<html>
+
+<head>
+</head>
+
+<body>
+	<h2>Testing</h2>
+<div class="menu-category" *ngFor="let cat of menu | async">
+		<!--<span>{{ cat.type }}</span>
+		<span>{{ cat.price }}</span>-->
+		<span>{{ cat.name }}</span>
+		<span>{{ cat.half }}</span>
+		<div class="category-items" *ngFor="let item of cat.FoodMenuItem">
+			<span>{{ item.name }}</span>
+			<span>{{ item.Cost }}</span>
+			<span>{{ item.Description }}</span>
+			<span>{{ item.Number }}</span>
+		</div>
+</div>
+</body>
+</html>
