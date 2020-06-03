@@ -1,0 +1,949 @@
+[
+   {
+      "@name": "Combination Plates",
+      "@half": "false",
+      "FoodMenuItem": [
+         {
+            "@name": "No.1",
+            "Cost": "11.60",
+            "Description": "Sweet & Sour Chicken Balls, Garlic Spare Ribs, Chicken Fried Rice",
+            "Number": "1000"
+         },
+         {
+            "@name": "No.2",
+            "Cost": "11.60",
+            "Description": "Sweet & Sour Chicken Balls, Chicken Chow Mein, Chicken Fried Rice",
+            "Number": "1001"
+         },
+         {
+            "@name": "No.3",
+            "Cost": "11.60",
+            "Description": "Garlic Spare Ribs, Chicken Chow Mein, Chicken Fried Rice",
+            "Number": "1002"
+         },
+         {
+            "@name": "No.4",
+            "Cost": "11.60",
+            "Description": "Almond Chicken Guy Ding, Garlic Spare Ribs, Chicken Fried Rice",
+            "Number": "1003"
+         },
+         {
+            "@name": "No.5",
+            "Cost": "13.50",
+            "Description": "General Tao's Chicken, Szechuan Style Beef, Steamed Rice",
+            "Number": "1004"
+         }
+      ]
+   },
+   {
+      "@name": "Chinese Dinner",
+      "@half": "false",
+      "FoodMenuItem": [
+         {
+            "@name": "Dinner for Two",
+            "Cost": "30.00",
+            "Description": "2 Egg Rolls, Chicken Chow Mein, Chicken Fried Rice, Sweet & Sour Chicken Balls, 2 Fortune Cookies",
+            "Number": "1010"
+         },
+         {
+            "@name": "Dinner for Two Hot & Spicy",
+            "Cost": "30.00",
+            "Description": "General Tao's Chicken, Szechuan Beef, 2 Spring Rolls, Steamed Rice",
+            "Number": "1011"
+         },
+         {
+            "@name": "Dinner for Three",
+            "Cost": "45.00",
+            "Description": "3 Egg Rolls, Garlic Spare Ribs, Chicken Fried Rice, Almond Chicken Guy Ding, Sweet & Sour Chicken Balls, 3 Fortune Cookies",
+            "Number": "1012"
+         },
+         {
+            "@name": "Dinner for Four",
+            "Cost": "57.00",
+            "Description": "4 Egg Rolls, Almond & Chicken Soo Guy, Chicken Chop Suey, Garlic Spare Ribs, Chicken Fried Rice, Sweet & Sour Chicken Balls, 4 Fortune Cookies",
+            "Number": "1013"
+         },
+         {
+            "@name": "Dinner for Five",
+            "Cost": "70.00",
+            "Description": "5 Egg Rolls, Sweet & Sour Breaded Shrimp, Garlic Spare Ribs, Chicken Chow Mein, Almond Chicken Guy Ding, Chicken Fried Rice, Sweet & Sour Chicken Balls, 5 Fortune Cookies",
+            "Number": "1014"
+         },
+         {
+            "@name": "Dinner for Six",
+            "Cost": "80.00",
+            "Description": "6 Egg Rolls, Sweet & Sour Breaded Shrimp, Chicken Chow Mein, Sweet & Sour Chicken Balls, Beef with Broccoli, Garlic Spare Ribs, 2 Chicken Fried Rice, 6 Fortune Cookies",
+            "Number": "1015"
+         }
+      ]
+   },
+   {
+      "@name": "Soup & Side Orders",
+      "@half": "false",
+      "FoodMenuItem": [
+         {
+            "@name": "Chicken Noodle Soup",
+            "Cost": "5.20",
+            "Description": [],
+            "Number": "1"
+         },
+         {
+            "@name": "Won Ton Soup",
+            "Cost": "5.20",
+            "Description": [],
+            "Number": "2"
+         },
+         {
+            "@name": "Mushroom Egg Soup",
+            "Cost": "5.20",
+            "Description": [],
+            "Number": "3"
+         },
+         {
+            "@name": "Hot and Sour Soup",
+            "Cost": "5.20",
+            "Description": [],
+            "Number": "4"
+         },
+         {
+            "@name": "Fried Dry Won Ton",
+            "Cost": "3.95",
+            "Description": [],
+            "Number": "5"
+         },
+         {
+            "@name": "Egg Roll (each)",
+            "Cost": "1.60",
+            "Description": [],
+            "Number": "6"
+         },
+         {
+            "@name": "Spring Roll (each)",
+            "Cost": "2.00",
+            "Description": [],
+            "Number": "7"
+         },
+         {
+            "@name": "Fried Crispy Noodles",
+            "Cost": "1.25",
+            "Description": [],
+            "Number": "8"
+         },
+         {
+            "@name": "Assorted Sauces (cup)",
+            "Cost": "1.50",
+            "Description": [],
+            "Number": "9"
+         },
+         {
+            "@name": "Assorted Sauces (large)",
+            "Cost": "2.00",
+            "Description": [],
+            "Number": "10"
+         },
+         {
+            "@name": "Steamed Rice",
+            "Cost": "2.50",
+            "Description": [],
+            "Number": "11"
+         },
+         {
+            "@name": "Steamed Rice (Large)",
+            "Cost": "3.50",
+            "Description": [],
+            "Number": "12"
+         },
+         {
+            "@name": "Almond Cookies",
+            "Cost": "0.50",
+            "Description": [],
+            "Number": "13"
+         },
+         {
+            "@name": "Fortune Cookies",
+            "Cost": "0.30",
+            "Description": [],
+            "Number": "14"
+         }
+      ]
+   },
+   {
+      "@name": "Fried Rice",
+      "@half": "true",
+      "FoodMenuItem": [
+         {
+            "@name": "Plain",
+            "Cost": "6.25",
+            "Description": [],
+            "Number": "30"
+         },
+         {
+            "@name": "Vegetable",
+            "Cost": "7.95",
+            "Description": [],
+            "Number": "31"
+         },
+         {
+            "@name": "Chicken",
+            "Cost": "8.25",
+            "Description": [],
+            "Number": "32"
+         },
+         {
+            "@name": "Beef",
+            "Cost": "8.50",
+            "Description": [],
+            "Number": "33"
+         },
+         {
+            "@name": "Pork",
+            "Cost": "8.25",
+            "Description": [],
+            "Number": "34"
+         },
+         {
+            "@name": "Mushroom",
+            "Cost": "8.25",
+            "Description": [],
+            "Number": "35"
+         },
+         {
+            "@name": "Bacon",
+            "Cost": "8.50",
+            "Description": [],
+            "Number": "36"
+         },
+         {
+            "@name": "Shrimp",
+            "Cost": "11.75",
+            "Description": [],
+            "Number": "37"
+         },
+         {
+            "@name": "Lucky Inn Special",
+            "Cost": "11.75",
+            "Description": [],
+            "Number": "38"
+         }
+      ]
+   },
+   {
+      "@name": "Chow Mein",
+      "@half": "true",
+      "FoodMenuItem": [
+         {
+            "@name": "Vegetable",
+            "Cost": "9.25",
+            "Description": [],
+            "Number": "50"
+         },
+         {
+            "@name": "Chicken",
+            "Cost": "9.75",
+            "Description": [],
+            "Number": "51"
+         },
+         {
+            "@name": "Beef",
+            "Cost": "9.75",
+            "Description": [],
+            "Number": "52"
+         },
+         {
+            "@name": "Pork",
+            "Cost": "9.75",
+            "Description": [],
+            "Number": "53"
+         },
+         {
+            "@name": "Mushroom",
+            "Cost": "9.75",
+            "Description": [],
+            "Number": "54"
+         },
+         {
+            "@name": "Shrimp",
+            "Cost": "12.75",
+            "Description": [],
+            "Number": "55"
+         }
+      ]
+   },
+   {
+      "@name": "Chow Won Ton",
+      "@half": "true",
+      "FoodMenuItem": [
+         {
+            "@name": "Chicken",
+            "Cost": "12.95",
+            "Description": [],
+            "Number": "70"
+         },
+         {
+            "@name": "Beef",
+            "Cost": "12.95",
+            "Description": [],
+            "Number": "71"
+         },
+         {
+            "@name": "B.B.Q. Pork",
+            "Cost": "12.95",
+            "Description": [],
+            "Number": "72"
+         },
+         {
+            "@name": "Cantonese",
+            "Cost": "13.50",
+            "Description": [],
+            "Number": "73"
+         }
+      ]
+   },
+   {
+      "@name": "Fried Macaroni",
+      "@half": "true",
+      "FoodMenuItem": [
+         {
+            "@name": "Chicken",
+            "Cost": "9.50",
+            "Description": [],
+            "Number": "90"
+         },
+         {
+            "@name": "Beef",
+            "Cost": "9.50",
+            "Description": [],
+            "Number": "91"
+         },
+         {
+            "@name": "Pork",
+            "Cost": "9.50",
+            "Description": [],
+            "Number": "92"
+         },
+         {
+            "@name": "Shrimp",
+            "Cost": "12.75",
+            "Description": [],
+            "Number": "93"
+         }
+      ]
+   },
+   {
+      "@name": "Chop Suey",
+      "@half": "true",
+      "FoodMenuItem": [
+         {
+            "@name": "Vegetable",
+            "Cost": "8.75",
+            "Description": [],
+            "Number": "110"
+         },
+         {
+            "@name": "Chicken",
+            "Cost": "9.25",
+            "Description": [],
+            "Number": "111"
+         },
+         {
+            "@name": "Beef",
+            "Cost": "9.25",
+            "Description": [],
+            "Number": "112"
+         },
+         {
+            "@name": "Pork",
+            "Cost": "9.25",
+            "Description": [],
+            "Number": "113"
+         },
+         {
+            "@name": "Mushroom",
+            "Cost": "9.25",
+            "Description": [],
+            "Number": "114"
+         },
+         {
+            "@name": "Shrimp",
+            "Cost": "12.50",
+            "Description": [],
+            "Number": "115"
+         }
+      ]
+   },
+   {
+      "@name": "Egg Foo Young",
+      "@half": "true",
+      "FoodMenuItem": [
+         {
+            "@name": "Plain",
+            "Cost": "9.25",
+            "Description": [],
+            "Number": "130"
+         },
+         {
+            "@name": "Chicken",
+            "Cost": "9.95",
+            "Description": [],
+            "Number": "131"
+         },
+         {
+            "@name": "Pork or Bacon",
+            "Cost": "9.95",
+            "Description": [],
+            "Number": "132"
+         },
+         {
+            "@name": "Mushroom",
+            "Cost": "9.95",
+            "Description": [],
+            "Number": "133"
+         },
+         {
+            "@name": "Shrimp",
+            "Cost": "12.50",
+            "Description": [],
+            "Number": "134"
+         }
+      ]
+   },
+   {
+      "@name": "Chicken Dishes",
+      "@half": "true",
+      "FoodMenuItem": [
+         {
+            "@name": "Almond Chicken Soo Guy",
+            "Cost": "11.95",
+            "Description": [],
+            "Number": "150"
+         },
+         {
+            "@name": "Moo Goo Guy Kew",
+            "Cost": "11.50",
+            "Description": [],
+            "Number": "151"
+         },
+         {
+            "@name": "Moo Goo Guy Pen",
+            "Cost": "11.50",
+            "Description": [],
+            "Number": "152"
+         },
+         {
+            "@name": "Sweet & Sour or Pineapple Chicken Balls",
+            "Cost": "11.95",
+            "Description": [],
+            "Number": "153"
+         },
+         {
+            "@name": "Almond Chicken Guy Ding",
+            "Cost": "11.25",
+            "Description": [],
+            "Number": "154"
+         },
+         {
+            "@name": "Curry Chicken",
+            "Cost": "11.95",
+            "Description": [],
+            "Number": "155"
+         },
+         {
+            "@name": "Garlic Chicken Wings",
+            "Cost": "13.50",
+            "Description": [],
+            "Number": "156"
+         },
+         {
+            "@name": "Special Chicken Wings",
+            "Cost": "13.50",
+            "Description": [],
+            "Number": "157"
+         }
+      ]
+   },
+   {
+      "@name": "Beef Dishes",
+      "@half": "true",
+      "FoodMenuItem": [
+         {
+            "@name": "Yu Hsiang Beef",
+            "Cost": "11.95",
+            "Description": [],
+            "Number": "170"
+         },
+         {
+            "@name": "Beef with Green Pepper",
+            "Cost": "11.95",
+            "Description": [],
+            "Number": "171"
+         },
+         {
+            "@name": "Beef with Chinese Green",
+            "Cost": "11.95",
+            "Description": [],
+            "Number": "173"
+         },
+         {
+            "@name": "Beef with Broccoli",
+            "Cost": "11.95",
+            "Description": [],
+            "Number": "174"
+         },
+         {
+            "@name": "Tangy Spicy Beef",
+            "Cost": "11.95",
+            "Description": [],
+            "Number": "175"
+         },
+         {
+            "@name": "Curry Beef",
+            "Cost": "12.95",
+            "Description": [],
+            "Number": "176"
+         }
+      ]
+   },
+   {
+      "@name": "Pork Dishes",
+      "@half": "true",
+      "FoodMenuItem": [
+         {
+            "@name": "Yu Hsiang Shredded Pork",
+            "Cost": "11.95",
+            "Description": [],
+            "Number": "190"
+         },
+         {
+            "@name": "B.B.Q. Pork Garlic Sauce",
+            "Cost": "11.95",
+            "Description": [],
+            "Number": "193"
+         },
+         {
+            "@name": "Pork with Chinese Green",
+            "Cost": "11.50",
+            "Description": [],
+            "Number": "194"
+         },
+         {
+            "@name": "Pork with Broccoli",
+            "Cost": "11.50",
+            "Description": [],
+            "Number": "195"
+         },
+         {
+            "@name": "Garlic Spare Ribs",
+            "Cost": "12.25",
+            "Description": [],
+            "Number": "196"
+         },
+         {
+            "@name": "Salt and Pepper Pork",
+            "Cost": "14.95",
+            "Description": [],
+            "Number": "197"
+         }
+      ]
+   },
+   {
+      "@name": "Sea Food Dishes",
+      "@half": "true",
+      "FoodMenuItem": [
+         {
+            "@name": "Curry Shrimp",
+            "Cost": "14.95",
+            "Description": [],
+            "Number": "210"
+         },
+         {
+            "@name": "Kon Pao Spiced Shrimp",
+            "Cost": "14.95",
+            "Description": [],
+            "Number": "211"
+         },
+         {
+            "@name": "Imperial Shrimps",
+            "Cost": "14.95",
+            "Description": [],
+            "Number": "212"
+         },
+         {
+            "@name": "Shrimp Almond Ding",
+            "Cost": "14.95",
+            "Description": [],
+            "Number": "213"
+         },
+         {
+            "@name": "Breaded Shrimps with Sweet & Sour or Pineapple Sauce",
+            "Cost": "14.95",
+            "Description": [],
+            "Number": "214"
+         },
+         {
+            "@name": "Garlic Shrimps",
+            "Cost": "14.95",
+            "Description": [],
+            "Number": "216"
+         },
+         {
+            "@name": "Shrimps with Lobster Sauce",
+            "Cost": "14.95",
+            "Description": [],
+            "Number": "217"
+         }
+      ]
+   },
+   {
+      "@name": "Canadian Dishes",
+      "@half": "true",
+      "FoodMenuItem": [
+         {
+            "@name": "Chips",
+            "Cost": "4.25",
+            "Description": [],
+            "Number": "230"
+         },
+         {
+            "@name": "Chips with Gravy",
+            "Cost": "4.95",
+            "Description": [],
+            "Number": "231"
+         },
+         {
+            "@name": "Poutine",
+            "Cost": "7.25",
+            "Description": [],
+            "Number": "232"
+         },
+         {
+            "@name": "Chicken Strips with Fries",
+            "Cost": "10.95",
+            "Description": [],
+            "Number": "233"
+         },
+         {
+            "@name": "Extra Cheese",
+            "Cost": "2.50",
+            "Description": [],
+            "Number": "234"
+         },
+         {
+            "@name": "Onion Rings",
+            "Cost": "5.25",
+            "Description": [],
+            "Number": "235"
+         }
+      ]
+   },
+   {
+      "@name": "Mandarin Special Dishes",
+      "@half": "true",
+      "FoodMenuItem": [
+         {
+            "@name": "General Tao's Chicken",
+            "Cost": "13.50",
+            "Description": [],
+            "Number": "250"
+         },
+         {
+            "@name": "Sauteed Chicken Wings",
+            "Cost": "13.50",
+            "Description": [],
+            "Number": "251"
+         },
+         {
+            "@name": "Chicken Breast in Lemon Sauce",
+            "Cost": "12.95",
+            "Description": [],
+            "Number": "252"
+         },
+         {
+            "@name": "Szechuan Style Beef",
+            "Cost": "13.50",
+            "Description": [],
+            "Number": "253"
+         },
+         {
+            "@name": "Sweet & Sour Pork (Chinese Style)",
+            "Cost": "13.50",
+            "Description": [],
+            "Number": "254"
+         },
+         {
+            "@name": "Singapore Fried Noodles",
+            "Cost": "13.50",
+            "Description": [],
+            "Number": "255"
+         },
+         {
+            "@name": "Imperial Chicken",
+            "Cost": "13.50",
+            "Description": [],
+            "Number": "256"
+         },
+         {
+            "@name": "Beef with Peking Sauce",
+            "Cost": "13.50",
+            "Description": [],
+            "Number": "257"
+         },
+         {
+            "@name": "Pork with Peking Sauce",
+            "Cost": "13.50",
+            "Description": [],
+            "Number": "258"
+         },
+         {
+            "@name": "Cantonese Chow Mein",
+            "Cost": "13.50",
+            "Description": [],
+            "Number": "259"
+         },
+         {
+            "@name": "Salt and Pepper Chicken",
+            "Cost": "14.95",
+            "Description": [],
+            "Number": "260"
+         }
+      ]
+   },
+   {
+      "@name": "New Dishes",
+      "@half": "false",
+      "FoodMenuItem": [
+         {
+            "@name": "Egg Rolls (12)",
+            "Cost": "18.00",
+            "Description": [],
+            "Number": "400"
+         },
+         {
+            "@name": "Spring Rolls (12)",
+            "Cost": "21.00",
+            "Description": [],
+            "Number": "401"
+         },
+         {
+            "@name": "Open End Egg Roll",
+            "Cost": "2.00",
+            "Description": [],
+            "Number": "402"
+         },
+         {
+            "@name": "Won Ton Soup (Large)",
+            "Cost": "8.70",
+            "Description": [],
+            "Number": "403"
+         },
+         {
+            "@name": "Almond Vegetable Ding",
+            "Cost": "10.25",
+            "Description": [],
+            "Number": "404"
+         },
+         {
+            "@name": "Crispy Ginger Beef",
+            "Cost": "15.95",
+            "Description": [],
+            "Number": "405"
+         },
+         {
+            "@name": "Crispy Ginger Chicken",
+            "Cost": "14.95",
+            "Description": [],
+            "Number": "406"
+         },
+         {
+            "@name": "Shrimp Chips",
+            "Cost": "4.00",
+            "Description": [],
+            "Number": "407"
+         }
+      ]
+   },
+   {
+      "@name": "Drinks",
+      "@half": "false",
+      "FoodMenuItem": [
+         {
+            "@name": "Bottled Water",
+            "Cost": "1.50",
+            "Description": [],
+            "Number": "700",
+            "Type": "Drink"
+         },
+         {
+            "@name": "Juice",
+            "Cost": "2.25",
+            "Description": [],
+            "Number": "701",
+            "Type": "Drink"
+         },
+         {
+            "@name": "Perrier",
+            "Cost": "2.75",
+            "Description": [],
+            "Number": "702",
+            "Type": "Drink"
+         },
+         {
+            "@name": "Iced Tea",
+            "Cost": "2.75",
+            "Description": [],
+            "Number": "703",
+            "Type": "Drink"
+         },
+         {
+            "@name": "Soft Drinks",
+            "Cost": "1.75",
+            "Description": [],
+            "Number": "704",
+            "Type": "Drink"
+         },
+         {
+            "@name": "Coffee",
+            "Cost": "2.00",
+            "Description": [],
+            "Number": "705",
+            "Type": "Drink"
+         },
+         {
+            "@name": "Tea",
+            "Cost": "2.00",
+            "Description": [],
+            "Number": "706",
+            "Type": "Drink"
+         },
+         {
+            "@name": "Milk",
+            "Cost": "2.00",
+            "Description": [],
+            "Number": "707",
+            "Type": "Drink"
+         },
+         {
+            "@name": "Hot Chocolate",
+            "Cost": "2.25",
+            "Description": [],
+            "Number": "708",
+            "Type": "Drink"
+         },
+         {
+            "@name": "More Mixed",
+            "Cost": "7.50",
+            "Description": "???",
+            "Number": "709",
+            "Type": "Drink"
+         }
+      ]
+   },
+   {
+      "@name": "Alcoholic Drinks",
+      "@half": "false",
+      "FoodMenuItem": [
+         {
+            "@name": "Wine - Glass",
+            "Cost": "6.75",
+            "Description": [],
+            "Number": "750",
+            "Type": "Drink"
+         },
+         {
+            "@name": "Wine - 1/4L",
+            "Cost": "9.00",
+            "Description": [],
+            "Number": "751",
+            "Type": "Drink"
+         },
+         {
+            "@name": "Wine - 1/2L",
+            "Cost": "15.00",
+            "Description": [],
+            "Number": "752",
+            "Type": "Drink"
+         },
+         {
+            "@name": "Wine - 1L",
+            "Cost": "28.00",
+            "Description": [],
+            "Number": "753",
+            "Type": "Drink"
+         },
+         {
+            "@name": "Beer",
+            "Cost": "5.95",
+            "Description": [],
+            "Number": "754",
+            "Type": "Drink"
+         },
+         {
+            "@name": "Beer - Imported",
+            "Cost": "6.75",
+            "Description": [],
+            "Number": "755",
+            "Type": "Drink"
+         }
+      ]
+   },
+   {
+      "@name": "Dessert",
+      "@half": "false",
+      "FoodMenuItem": [
+         {
+            "@name": "Fortune Cookie",
+            "Cost": "0.30",
+            "Description": [],
+            "Number": "800",
+            "Type": "Drink"
+         },
+         {
+            "@name": "Almond Cookie",
+            "Cost": "0.50",
+            "Description": [],
+            "Number": "801",
+            "Type": "Drink"
+         },
+         {
+            "@name": "Ice Cream",
+            "Cost": "3.00",
+            "Description": [],
+            "Number": "802",
+            "Type": "Drink"
+         }
+      ]
+   },
+   {
+      "@name": "Food Addons",
+      "@half": "false",
+      "FoodMenuItem": {
+         "@name": "FREE Chicken Fried Rice",
+         "Cost": "0.00",
+         "Description": [],
+         "Number": "850"
+      }
+   },
+   {
+      "@name": "Extra",
+      "@half": "false",
+      "FoodMenuItem": [
+         {
+            "@name": "$1.00",
+            "Cost": "1.00",
+            "Description": [],
+            "Number": "900"
+         },
+         {
+            "@name": "$2.00",
+            "Cost": "2.00",
+            "Description": [],
+            "Number": "901"
+         },
+         {
+            "@name": "$3.00",
+            "Cost": "3.00",
+            "Description": [],
+            "Number": "902"
+         }
+      ]
+   }
+]
